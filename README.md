@@ -8,15 +8,16 @@
 - 👯 I'm looking for a job as a Front End developer and Mobile Developer
 - 🥅 2021 Goals: Can be a Fullstack developer
 - ⚡ Fun fact: I love to reading, sleeping and play guitar 
+- 📬 Hire me remote job by sending email ~> yohanespratitis@gmail.com
 
 ### Connect with me:
 
-[<img align="left" alt="YPratitis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="YPratitis | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="YPratitis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin][linkedin]: https://www.linkedin.com/in/yohanes-pratitis-980205a5/
+[<img align="left" alt="YPratitis | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram][instagram]: https://instagram.com/yohanespratitis
 
 <br />
 
-### Languages and Tools:
+<!-- ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 
@@ -28,7 +29,7 @@
 
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />] -->
 
 <!-- 
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
@@ -42,10 +43,7 @@
 
 <br />
 <br />
-
----
-
-
+<!-- 
 [instagram]: https://instagram.com/yohanespratitis
-[linkedin]: https://www.linkedin.com/in/yohanes-pratitis-980205a5/
+[linkedin]: https://www.linkedin.com/in/yohanes-pratitis-980205a5/ -->
 
