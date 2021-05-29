@@ -10,14 +10,15 @@
 - ⚡ Fun fact: I love to reading, sleeping and play guitar 
 - 📬 Hire me remote job by sending email ~> yohanespratitis@gmail.com
 
-### Connect with me:
+<!-- ### Connect with me:
 --
 [<img align="left" alt="YPratitis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="YPratitis | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
---
+ -->
+
+<!-- <br />
 [linkedin]: https://www.linkedin.com/in/yohanes-pratitis-980205a5/
-[instagram]: https://instagram.com/yohanespratitis
-<br />
+[instagram]: https://instagram.com/yohanespratitis -->
 
 <!-- ### Languages and Tools:
 
