@@ -1,7 +1,7 @@
-### Hi there, I'm YPratitis - aka [Anes][website] 👋
+### Hi there, I'm Yohanes Pratitis👋
 
 
-## I'm a Single, Food Lover, and Developer!!
+## I'm a Front End and Mobile Developer!!
 
 - 🔭 I graduated from campus ITTelkom Purwokerto !
 - 🌱 I’m currently learning React JS, Express Js And Kotlin
